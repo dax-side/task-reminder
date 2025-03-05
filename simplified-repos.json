@@ -1,0 +1,521 @@
+[
+  {
+    "projectDetails": "name: github-commit-monitor , full_name: telexintegrations/github-commit-monitor, description: GitHub Commit Monitor is a Flask-based integration that connects GitHub repositories with the Telex messaging platform. It receives webhook events for commits, verifies payload signatures for security, and sends real-time notifications to a Telex channel. Deployed on Heroku, it features CI/CD automation for seamless updates."
+  },
+  {
+    "projectDetails": "name: telex-integration-rss-feed-to-telex-channel , full_name: telexintegrations/telex-integration-rss-feed-to-telex-channel, description: Sends RSS Feeds to telex channel at intervals"
+  },
+  {
+    "projectDetails": "name: telex-daily-motivation-integration , full_name: telexintegrations/telex-daily-motivation-integration, description: null"
+  },
+  {
+    "projectDetails": "name: fastapi-apm , full_name: telexintegrations/fastapi-apm, description: A lightweight, high-performance Application Performance Monitoring (APM) solution for FastAPI, designed to catch, log, and report errors in real time to Telex."
+  },
+  {
+    "projectDetails": "name: nestjs-apm , full_name: telexintegrations/nestjs-apm, description: null"
+  },
+  {
+    "projectDetails": "name: I-notify , full_name: telexintegrations/I-notify, description: null"
+  },
+  {
+    "projectDetails": "name: reactjs-apm , full_name: telexintegrations/reactjs-apm, description: 🚀 Lightweight APM for React – Capture errors, logs, and performance metrics seamlessly"
+  },
+  {
+    "projectDetails": "name: telex-interval-stock-monitor , full_name: telexintegrations/telex-interval-stock-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: pagespeed-insight-integration , full_name: telexintegrations/pagespeed-insight-integration, description: Google Page Speed Insight Telex Integration"
+  },
+  {
+    "projectDetails": "name: mysql-performance-monitor , full_name: telexintegrations/mysql-performance-monitor, description: Effective monitoring tool designed to track the health and performance of MySQL databases in real time"
+  },
+  {
+    "projectDetails": "name: flutterwave_api_monitor , full_name: telexintegrations/flutterwave_api_monitor, description: null"
+  },
+  {
+    "projectDetails": "name: Smart-Log-Error-Tracker , full_name: telexintegrations/Smart-Log-Error-Tracker, description: null"
+  },
+  {
+    "projectDetails": "name: NLP-Sentiment-Analysis-Modifier-Integratio , full_name: telexintegrations/NLP-Sentiment-Analysis-Modifier-Integratio, description: The Sentiment Analysis Modifier Integration analyzes the sentiment of incoming messages in a Telex channel using NLP APIs. It detects whether messages are positive, negative, or neutral and flags or modifies toxic content before it appears in the channel"
+  },
+  {
+    "projectDetails": "name: docker-container-monitor , full_name: telexintegrations/docker-container-monitor, description: Displays alerts for downtimes in docker containers"
+  },
+  {
+    "projectDetails": "name: commit-quality-monitor , full_name: telexintegrations/commit-quality-monitor, description: FastAPI-based Telex integration for real-time GitHub commit quality monitoring and actionable feedback."
+  },
+  {
+    "projectDetails": "name: DBPulse , full_name: telexintegrations/DBPulse, description: Telex integration for monitoring database health (MongoDB)"
+  },
+  {
+    "projectDetails": "name: daily-to-do-reminder , full_name: telexintegrations/daily-to-do-reminder, description: A simple to-do reminder that sends tasks daily."
+  },
+  {
+    "projectDetails": "name: Azure-Cloud-Spend-Monitoring , full_name: telexintegrations/Azure-Cloud-Spend-Monitoring, description: null"
+  },
+  {
+    "projectDetails": "name: telex2telegram-alert , full_name: telexintegrations/telex2telegram-alert, description: null"
+  },
+  {
+    "projectDetails": "name: telex_network_alerts , full_name: telexintegrations/telex_network_alerts, description: null"
+  },
+  {
+    "projectDetails": "name: telex-africastalking-sms-integration , full_name: telexintegrations/telex-africastalking-sms-integration, description: null"
+  },
+  {
+    "projectDetails": "name: cron-web-api-monitor , full_name: telexintegrations/cron-web-api-monitor, description: Automate your monitoring with this tool that regularly checks the health and status of cron jobs, websites, and APIs.  Receive reports and alerts to ensure the reliability of your critical services."
+  },
+  {
+    "projectDetails": "name: codex , full_name: telexintegrations/codex, description:  Telex integration/plugin that sends a coding challenge in a channel every morning to sharpen developer skills."
+  },
+  {
+    "projectDetails": "name: Twitter_trending_posts , full_name: telexintegrations/Twitter_trending_posts, description: null"
+  },
+  {
+    "projectDetails": "name: telexAPM-for-dotnet , full_name: telexintegrations/telexAPM-for-dotnet, description: 🌟 Telex APM – Global Error Tracking & Performance Monitoring for .NET. Lightweight APM SDK for .NET applications (ASP.NET Core & standalone C#). Tracks errors & performance automatically. 🚀"
+  },
+  {
+    "projectDetails": "name: telex_weather_air_quality_integration-HNG12_Stage_3 , full_name: telexintegrations/telex_weather_air_quality_integration-HNG12_Stage_3, description: null"
+  },
+  {
+    "projectDetails": "name: ssl-sentinel , full_name: telexintegrations/ssl-sentinel, description: Monitor and logs  SSL expiry dates and logs the expiry dates into telex "
+  },
+  {
+    "projectDetails": "name: access-watch-telex , full_name: telexintegrations/access-watch-telex, description: Integration for monitoring user access attempts to sensitive data using Telex. Logs and reports unauthorized access attempts for enhanced security"
+  },
+  {
+    "projectDetails": "name: apache-error-monitor , full_name: telexintegrations/apache-error-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: yelp-reviews-monitor , full_name: telexintegrations/yelp-reviews-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: grafana-loki-monitor , full_name: telexintegrations/grafana-loki-monitor, description: An integration to fetches logs from a Loki server and sends them to a Telex channel at defined intervals."
+  },
+  {
+    "projectDetails": "name: telex-exercise-integration , full_name: telexintegrations/telex-exercise-integration, description: null"
+  },
+  {
+    "projectDetails": "name: automatic-sm-replier , full_name: telexintegrations/automatic-sm-replier, description: An Integration that automatically replies social media messages"
+  },
+  {
+    "projectDetails": "name: currency-rate-tracker , full_name: telexintegrations/currency-rate-tracker, description: null"
+  },
+  {
+    "projectDetails": "name: telex-google-reviews , full_name: telexintegrations/telex-google-reviews, description: null"
+  },
+  {
+    "projectDetails": "name: RedditPulse , full_name: telexintegrations/RedditPulse, description: null"
+  },
+  {
+    "projectDetails": "name: linode-spend-tracker , full_name: telexintegrations/linode-spend-tracker, description: null"
+  },
+  {
+    "projectDetails": "name: Feature-requests-embed , full_name: telexintegrations/Feature-requests-embed, description: null"
+  },
+  {
+    "projectDetails": "name: API-Rate-Limiter-Monitor , full_name: telexintegrations/API-Rate-Limiter-Monitor, description: null"
+  },
+  {
+    "projectDetails": "name: hng12-stage3-telex-integration_formify , full_name: telexintegrations/hng12-stage3-telex-integration_formify, description: Formify is a seamless Form as a Service (FaaS) tool that empowers users to collect and manage form data without the need for a backend infrastructure. With Formify, users can simply embed a URL into the \"action\" attribute of an HTML form, and the submitted data will be automatically processed and sent to a designated Telex channel."
+  },
+  {
+    "projectDetails": "name: aws-cost-spend-monitor , full_name: telexintegrations/aws-cost-spend-monitor, description: AWS Spend Monitor is a FastAPI-based Telex integration that tracks AWS costs in real-time and sends alerts to Telex to help members of an organization stay within budget. It supports daily and monthly cost monitoring."
+  },
+  {
+    "projectDetails": "name: website-monitor , full_name: telexintegrations/website-monitor, description: A FastAPI-based Telex integration that monitors websites using Google Lighthouse and HTTP requests. It checks the site's speed and sends performance reports back to Telex."
+  },
+  {
+    "projectDetails": "name: Project-Management-Integration- , full_name: telexintegrations/Project-Management-Integration-, description: This integration uses asana webhook API and leverage on telex to streamline projects milestones by notification "
+  },
+  {
+    "projectDetails": "name: Levels-im , full_name: telexintegrations/Levels-im, description: An AI-powered integration that performs comparative analysis. It helps in evaluating and comparing various tools to weigh their pros and cons before integrating them into your build stack. "
+  },
+  {
+    "projectDetails": "name: simply_metrics , full_name: telexintegrations/simply_metrics, description: null"
+  },
+  {
+    "projectDetails": "name: telexpress , full_name: telexintegrations/telexpress, description: null"
+  },
+  {
+    "projectDetails": "name: telex_discord_webhook , full_name: telexintegrations/telex_discord_webhook, description: Routes Telex messages to a Discord channel using Discord Webhooks"
+  },
+  {
+    "projectDetails": "name: ip-geolocator , full_name: telexintegrations/ip-geolocator, description: null"
+  },
+  {
+    "projectDetails": "name: ci-cd-monitor , full_name: telexintegrations/ci-cd-monitor, description: A Telex Integration that watches your ci-cd pipeline and send alerts giving information on build & deploy statatus, and failures in the pipeline."
+  },
+  {
+    "projectDetails": "name: ecomtrace-apm , full_name: telexintegrations/ecomtrace-apm, description: null"
+  },
+  {
+    "projectDetails": "name: ekefan-go , full_name: telexintegrations/ekefan-go, description: A telex APM for gin applications"
+  },
+  {
+    "projectDetails": "name: ai-safety-monitor , full_name: telexintegrations/ai-safety-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: flutter_telex_error_monitor_backend , full_name: telexintegrations/flutter_telex_error_monitor_backend, description: null"
+  },
+  {
+    "projectDetails": "name: hng12-stage3-news-digest , full_name: telexintegrations/hng12-stage3-news-digest, description: null"
+  },
+  {
+    "projectDetails": "name: notion-updates , full_name: telexintegrations/notion-updates, description: null"
+  },
+  {
+    "projectDetails": "name: telex-error-reporter , full_name: telexintegrations/telex-error-reporter, description: **Telex Sentry Integration** fetches real-time error logs from **Sentry** and reports them to **Telex** for monitoring. It automates error tracking, supports customizable alerts, and notifies admins based on severity. Configure your Sentry API key and settings to start monitoring effortlessly! 🚀"
+  },
+  {
+    "projectDetails": "name: Daily_revenue_report , full_name: telexintegrations/Daily_revenue_report, description: Creates and sends a daily revenue report"
+  },
+  {
+    "projectDetails": "name: telex-weather-bot , full_name: telexintegrations/telex-weather-bot, description: null"
+  },
+  {
+    "projectDetails": "name: event-reminder-integration , full_name: telexintegrations/event-reminder-integration, description: A Node.js application that schedules events and sends timely reminders to a Telex channel. Built with Express, TypeScript, and a background task queue for efficient event management and notifications."
+  },
+  {
+    "projectDetails": "name: hngx-stage3-Github-Tracker , full_name: telexintegrations/hngx-stage3-Github-Tracker, description: null"
+  },
+  {
+    "projectDetails": "name: code-block-formatter , full_name: telexintegrations/code-block-formatter, description: webhook-based integration that automatically formats code snippets shared in Telex channels"
+  },
+  {
+    "projectDetails": "name: auto-emoji-replacer , full_name: telexintegrations/auto-emoji-replacer, description: Automatically replaces words in messages with emojis to enhance communication."
+  },
+  {
+    "projectDetails": "name: sofware-principles-aggregator , full_name: telexintegrations/sofware-principles-aggregator, description: null"
+  },
+  {
+    "projectDetails": "name: Django-Telex-Testing , full_name: telexintegrations/Django-Telex-Testing, description: null"
+  },
+  {
+    "projectDetails": "name: zendesk-integration , full_name: telexintegrations/zendesk-integration, description: null"
+  },
+  {
+    "projectDetails": "name: telex-team-health-monitor , full_name: telexintegrations/telex-team-health-monitor, description: A Typeform-powered backend integration for monitoring remote team well-being within the Telex platform. This application automates daily health check-ins, collects responses on physical and mental health, work environment, team interaction, and personal development, and provides actionable insights to enhance team vitality"
+  },
+  {
+    "projectDetails": "name: trello-card-creator , full_name: telexintegrations/trello-card-creator, description: null"
+  },
+  {
+    "projectDetails": "name: payment-monitoring-alerts , full_name: telexintegrations/payment-monitoring-alerts, description: null"
+  },
+  {
+    "projectDetails": "name: page-change-monitor , full_name: telexintegrations/page-change-monitor, description: Monitor competitor websites and get alerts whenever changes occur on their pages"
+  },
+  {
+    "projectDetails": "name: NASA-Astronomy-Picture-of-the-Day-Integration , full_name: telexintegrations/NASA-Astronomy-Picture-of-the-Day-Integration, description: An integration that fetches NASA's Astronomy Picture of the Day (APOD) and its description daily at set interval, delivering the content to a designated Telex channel, with optional cross-posting to Slack and Twitter."
+  },
+  {
+    "projectDetails": "name: local-event-notifier , full_name: telexintegrations/local-event-notifier, description: Fetches local events based on chosen city  or location and posts updates on the Telex channel"
+  },
+  {
+    "projectDetails": "name: Email-spam-checker , full_name: telexintegrations/Email-spam-checker, description: null"
+  },
+  {
+    "projectDetails": "name: telex-cve-monitor , full_name: telexintegrations/telex-cve-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: keyword-highlighter , full_name: telexintegrations/keyword-highlighter, description: A keyword highlighter tool that processes messages and highlights specific keywords."
+  },
+  {
+    "projectDetails": "name: nodejs_latency_monitor , full_name: telexintegrations/nodejs_latency_monitor, description: null"
+  },
+  {
+    "projectDetails": "name: hngx_stage3_telex_integration_linkedin , full_name: telexintegrations/hngx_stage3_telex_integration_linkedin, description: null"
+  },
+  {
+    "projectDetails": "name: Django-Jira-Integration , full_name: telexintegrations/Django-Jira-Integration, description: A Telex Interval integration that sends pending and resolved jira tasks for the week"
+  },
+  {
+    "projectDetails": "name: football-livescore , full_name: telexintegrations/football-livescore, description: null"
+  },
+  {
+    "projectDetails": "name: Telex_Integratio , full_name: telexintegrations/Telex_Integratio, description: null"
+  },
+  {
+    "projectDetails": "name: Weekly-Side-Hustle-Generator , full_name: telexintegrations/Weekly-Side-Hustle-Generator, description: null"
+  },
+  {
+    "projectDetails": "name: Automated-Gmail-Service , full_name: telexintegrations/Automated-Gmail-Service, description: This is an automated email service to be consumed by Gmail users via telex integrations"
+  },
+  {
+    "projectDetails": "name: url_safety_scanner , full_name: telexintegrations/url_safety_scanner, description: A URL Scanner integration that scans a URL link to detect security threats"
+  },
+  {
+    "projectDetails": "name: telex-daily-standup-report , full_name: telexintegrations/telex-daily-standup-report, description: This Telex integration sends a scheduled reminder to a channel, prompting team members to submit their daily standup reports."
+  },
+  {
+    "projectDetails": "name: Daily_motivation_integration , full_name: telexintegrations/Daily_motivation_integration, description: null"
+  },
+  {
+    "projectDetails": "name: trello-board-tracker , full_name: telexintegrations/trello-board-tracker, description: This is a Trello integration that notifies the Telex channels of the progress in a Trello Board every morning and evening"
+  },
+  {
+    "projectDetails": "name: telex_link_post_stats_monitor , full_name: telexintegrations/telex_link_post_stats_monitor, description: null"
+  },
+  {
+    "projectDetails": "name: hngx-stage3-multilingual-chat , full_name: telexintegrations/hngx-stage3-multilingual-chat, description: This integration will automatically translate incoming messages to a specified language. It will detect the language of incoming messages and translate them using the Google Cloud Translation API or Microsoft Translator API, making communication more inclusive and accessible."
+  },
+  {
+    "projectDetails": "name: interval-reminder-RemindMe , full_name: telexintegrations/interval-reminder-RemindMe, description: null"
+  },
+  {
+    "projectDetails": "name: telex-price-tracker , full_name: telexintegrations/telex-price-tracker, description: Telex Crypto Tracker is a Telex Interval Integration that automatically posts real-time cryptocurrency price updates to a Telex channel at regular intervals. It will track the prices of Bitcoin (BTC), Ethereum (ETH), and Solana (SOL), along side with their respective 24-hour percentage changes, and sends formatted messages to the Telex platform."
+  },
+  {
+    "projectDetails": "name: ASANA-PROJECT_MANAGEMENT , full_name: telexintegrations/ASANA-PROJECT_MANAGEMENT, description: null"
+  },
+  {
+    "projectDetails": "name: github-star-notifier , full_name: telexintegrations/github-star-notifier, description: null"
+  },
+  {
+    "projectDetails": "name: grammar-fixer , full_name: telexintegrations/grammar-fixer, description: null"
+  },
+  {
+    "projectDetails": "name: daily-actiivity-monitor , full_name: telexintegrations/daily-actiivity-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: timezone-converter-telex-integration , full_name: telexintegrations/timezone-converter-telex-integration, description: null"
+  },
+  {
+    "projectDetails": "name: E-Commerce-Order-Notification , full_name: telexintegrations/E-Commerce-Order-Notification, description: A telex integration that sends real-time notifications to a designated channel when a customer successfully completes a purchase on a React-based eCommerce website. It helps store owners and support teams stay updated on orders, ensuring a smooth fulfillment process."
+  },
+  {
+    "projectDetails": "name: ViewOnce , full_name: telexintegrations/ViewOnce, description: null"
+  },
+  {
+    "projectDetails": "name: daily-summary-generator , full_name: telexintegrations/daily-summary-generator, description: The Daily Summary Generator is a Telex integration that automatically compiles and summarizes messages from a Telex channel every 24 hours (or at a configured interval)."
+  },
+  {
+    "projectDetails": "name: mongodb_monitor , full_name: telexintegrations/mongodb_monitor, description: null"
+  },
+  {
+    "projectDetails": "name: Learning-Language-Assistant , full_name: telexintegrations/Learning-Language-Assistant, description: null"
+  },
+  {
+    "projectDetails": "name: JiraStream , full_name: telexintegrations/JiraStream, description: JiraStream listens for changes in a Jira project and sends real-time updates to a Telex channel."
+  },
+  {
+    "projectDetails": "name: hng12-stage3-tableau-dashboard-monitor , full_name: telexintegrations/hng12-stage3-tableau-dashboard-monitor, description: A Tableau Performance Monitor that detects failures or slow loading of Tableau reports using Tableau Server Logs. Monitors dashboard performance and sends alerts when load times exceed thresholds or when errors occur."
+  },
+  {
+    "projectDetails": "name: telex_asp_net_core_health_monitor , full_name: telexintegrations/telex_asp_net_core_health_monitor, description: An ASP .NET Core health monitor with Telex "
+  },
+  {
+    "projectDetails": "name: HAProxy-monitor , full_name: telexintegrations/HAProxy-monitor, description: An output and Interval integration to monitor HAProxy through telex"
+  },
+  {
+    "projectDetails": "name: Bigquery-monitor , full_name: telexintegrations/Bigquery-monitor, description: A Telex integration that monitors bigquery by reporting daily resource utilization and failed job runs.   "
+  },
+  {
+    "projectDetails": "name: Forex-Symbols-Notifier , full_name: telexintegrations/Forex-Symbols-Notifier, description: Sends notifications to a telex channel"
+  },
+  {
+    "projectDetails": "name: Lantency-Monitor , full_name: telexintegrations/Lantency-Monitor, description: An application that monitors the latency of http request integrated with telex."
+  },
+  {
+    "projectDetails": "name: habit-tracker , full_name: telexintegrations/habit-tracker, description: A daily habit tracker reminder to stay at alert and keep fit"
+  },
+  {
+    "projectDetails": "name: latency-performance-monitor , full_name: telexintegrations/latency-performance-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: github-issues-integration , full_name: telexintegrations/github-issues-integration, description: null"
+  },
+  {
+    "projectDetails": "name: slack-telex_alert_system , full_name: telexintegrations/slack-telex_alert_system, description: null"
+  },
+  {
+    "projectDetails": "name: aws-ec2-cpu-monitor-with-realtime-sms-alert , full_name: telexintegrations/aws-ec2-cpu-monitor-with-realtime-sms-alert, description: A FastAPI-based service that monitors AWS EC2 CPU usage and sends real-time SMS alerts using Twilio."
+  },
+  {
+    "projectDetails": "name: Trending-Github-Repos , full_name: telexintegrations/Trending-Github-Repos, description: An integration that receives github trending repos and sends it as a  message to the channel "
+  },
+  {
+    "projectDetails": "name: PayPal-Payments-Monitor , full_name: telexintegrations/PayPal-Payments-Monitor, description: A Node.js integration that continuously monitors PayPal transactions in real-time and posts payment notifications. This tool helps teams stay updated on incoming payments without manual intervention."
+  },
+  {
+    "projectDetails": "name: text-to-speech-integration , full_name: telexintegrations/text-to-speech-integration, description: null"
+  },
+  {
+    "projectDetails": "name: jenkins-build-notifier , full_name: telexintegrations/jenkins-build-notifier, description: null"
+  },
+  {
+    "projectDetails": "name: wit-what-is-trending , full_name: telexintegrations/wit-what-is-trending, description: Pulls trending topics from across social media, ranging from tech news, crypto, gossip, politics, economy, education etc."
+  },
+  {
+    "projectDetails": "name: Serious-Complaint-Logger , full_name: telexintegrations/Serious-Complaint-Logger, description: null"
+  },
+  {
+    "projectDetails": "name: Bible-Lookup-App , full_name: telexintegrations/Bible-Lookup-App, description: null"
+  },
+  {
+    "projectDetails": "name: telex-monthly-invoice-generator , full_name: telexintegrations/telex-monthly-invoice-generator, description: null"
+  },
+  {
+    "projectDetails": "name: telex-sports-update , full_name: telexintegrations/telex-sports-update, description: null"
+  },
+  {
+    "projectDetails": "name: LegalDoc-AI-Summarizer , full_name: telexintegrations/LegalDoc-AI-Summarizer, description: A Telex Modifier Integration that summarizes text messages, uploaded files (PDF and DOCX), and provides legal assistance via `/legal` commands."
+  },
+  {
+    "projectDetails": "name: Tunebase , full_name: telexintegrations/Tunebase, description: null"
+  },
+  {
+    "projectDetails": "name: github-telex-integration , full_name: telexintegrations/github-telex-integration, description: null"
+  },
+  {
+    "projectDetails": "name: telex-android-logger , full_name: telexintegrations/telex-android-logger, description: null"
+  },
+  {
+    "projectDetails": "name: daily-work-progress , full_name: telexintegrations/daily-work-progress, description: null"
+  },
+  {
+    "projectDetails": "name: freshdesk-notifications-telex-integration , full_name: telexintegrations/freshdesk-notifications-telex-integration, description: null"
+  },
+  {
+    "projectDetails": "name: hngx-stage3-build-telex-integrations , full_name: telexintegrations/hngx-stage3-build-telex-integrations, description: A Disk Space Monitoring Integration built for the Telex Web App"
+  },
+  {
+    "projectDetails": "name: telex-cloud-monitor , full_name: telexintegrations/telex-cloud-monitor, description: A Telex integration for monitoring Alibaba Cloud resources (CPU, Memory, Network Traffic)."
+  },
+  {
+    "projectDetails": "name: Customer-Feedback-api , full_name: telexintegrations/Customer-Feedback-api, description: null"
+  },
+  {
+    "projectDetails": "name: telex-zendesk-integration , full_name: telexintegrations/telex-zendesk-integration, description: null"
+  },
+  {
+    "projectDetails": "name: HNG12-STAGE3-SLANG-INTERPRETER , full_name: telexintegrations/HNG12-STAGE3-SLANG-INTERPRETER, description: null"
+  },
+  {
+    "projectDetails": "name: pheidippides-api , full_name: telexintegrations/pheidippides-api, description: An interval integration built for telex"
+  },
+  {
+    "projectDetails": "name: Channel-Name-notifier , full_name: telexintegrations/Channel-Name-notifier, description: is an integration that detects when a user's name or role is mentioned in a message and sends a notification (email or API alert) to them"
+  },
+  {
+    "projectDetails": "name: telex-who-typed-it-first , full_name: telexintegrations/telex-who-typed-it-first, description: Stage 3 project for HNG12 Internship program"
+  },
+  {
+    "projectDetails": "name: telex-global-error-handler , full_name: telexintegrations/telex-global-error-handler, description: null"
+  },
+  {
+    "projectDetails": "name: daily-py-jobs , full_name: telexintegrations/daily-py-jobs, description: null"
+  },
+  {
+    "projectDetails": "name: blockchain-news-integrator , full_name: telexintegrations/blockchain-news-integrator, description: An interval-based Telex integration that fetches data from CoinDesk API and send them as messages to a Telex Channel."
+  },
+  {
+    "projectDetails": "name: vulnerability-checker , full_name: telexintegrations/vulnerability-checker, description: This integration scans for vulnerabilities in project dependencies using Snyk and ESLint and sends alerts to Telex."
+  },
+  {
+    "projectDetails": "name: BarrzUpdate , full_name: telexintegrations/BarrzUpdate, description: API integrated with Telex that retrieves a list of latest music releases across genres from the Spotify API"
+  },
+  {
+    "projectDetails": "name: Windows_Server_Health_Checker , full_name: telexintegrations/Windows_Server_Health_Checker, description: null"
+  },
+  {
+    "projectDetails": "name: NGINX-Access-Log-Monitor , full_name: telexintegrations/NGINX-Access-Log-Monitor, description: Monitors NGINX access logs and sends alerts to a designated telex channel at a specified interval"
+  },
+  {
+    "projectDetails": "name: task-watch , full_name: telexintegrations/task-watch, description: Telex integration for task management"
+  },
+  {
+    "projectDetails": "name: AI-Powered-Log-Formatter-and-Debugger , full_name: telexintegrations/AI-Powered-Log-Formatter-and-Debugger, description: null"
+  },
+  {
+    "projectDetails": "name: code-review-analyzer , full_name: telexintegrations/code-review-analyzer, description: null"
+  },
+  {
+    "projectDetails": "name: Telex_spellbot , full_name: telexintegrations/Telex_spellbot, description: null"
+  },
+  {
+    "projectDetails": "name: email-open-rate-integration , full_name: telexintegrations/email-open-rate-integration, description: null"
+  },
+  {
+    "projectDetails": "name: learnbread-telex-channel-monitoring , full_name: telexintegrations/learnbread-telex-channel-monitoring, description: A Telex integration that monitors sensitive keywords from the learnbread channel, and sends the summary to the learnbread-admin-channel on the Telex platform (telex.im) every 1 minute."
+  },
+  {
+    "projectDetails": "name: random_meal_suggestor , full_name: telexintegrations/random_meal_suggestor, description: null"
+  },
+  {
+    "projectDetails": "name: movie_night , full_name: telexintegrations/movie_night, description: null"
+  },
+  {
+    "projectDetails": "name: login-security-monitor , full_name: telexintegrations/login-security-monitor, description: A Telex Output Integration that monitors authentication logs from your website platform to detect and alert on suspicious login activities."
+  },
+  {
+    "projectDetails": "name: github-fork-tracker , full_name: telexintegrations/github-fork-tracker, description: This project is a FastAPI-based telexintegration that monitor a GitHub repository for fork events and sends a notification to a telex channel with details of the fork event."
+  },
+  {
+    "projectDetails": "name: DependencyTracker , full_name: telexintegrations/DependencyTracker, description: Monitors pull requests for changes to requirements.txt and notifies the channel after 24 hours."
+  },
+  {
+    "projectDetails": "name: Network_Health_Path , full_name: telexintegrations/Network_Health_Path, description: null"
+  },
+  {
+    "projectDetails": "name: message_scheduler , full_name: telexintegrations/message_scheduler, description: null"
+  },
+  {
+    "projectDetails": "name: break-time , full_name: telexintegrations/break-time, description: Telex integration that sends in break reminders with random quotes."
+  },
+  {
+    "projectDetails": "name: telex-science-repo , full_name: telexintegrations/telex-science-repo, description: telex-science app integration"
+  },
+  {
+    "projectDetails": "name: Email-Prompt-Alert , full_name: telexintegrations/Email-Prompt-Alert, description: null"
+  },
+  {
+    "projectDetails": "name: telex-feedback-integration , full_name: telexintegrations/telex-feedback-integration, description: Tracks customer feedback form submissions"
+  },
+  {
+    "projectDetails": "name: redis-slowlog-monitor , full_name: telexintegrations/redis-slowlog-monitor, description: Redis Slowlog Monitor: monitors Redis slow logs and sends notifications if logs are slower than set threshold"
+  },
+  {
+    "projectDetails": "name: cloudflare-cdn-latency-alerts , full_name: telexintegrations/cloudflare-cdn-latency-alerts, description: An integration that monitors Cloudflare's CDN response time and geo-specific latency issues."
+  },
+  {
+    "projectDetails": "name: YouTube-feeds-on-latest-video , full_name: telexintegrations/YouTube-feeds-on-latest-video, description: null"
+  },
+  {
+    "projectDetails": "name: youtube-feeds-content , full_name: telexintegrations/youtube-feeds-content, description: null"
+  },
+  {
+    "projectDetails": "name: LinkSnap---URL-Shortener-Integration-for-Telex , full_name: telexintegrations/LinkSnap---URL-Shortener-Integration-for-Telex, description: LinkSnap is a simple link shortener that automatically replaces long, unwieldy URLs with concise, shortened links. This integration works with the Telex messaging platform and utilizes the Bitly API for URL shortening."
+  },
+  {
+    "projectDetails": "name: Task-Prioritizer , full_name: telexintegrations/Task-Prioritizer, description: A custom integration that automatically notifies Telex team members of High priority tasks from jira"
+  },
+  {
+    "projectDetails": "name: telex-wordle , full_name: telexintegrations/telex-wordle, description: null"
+  },
+  {
+    "projectDetails": "name: Security_Sentinel , full_name: telexintegrations/Security_Sentinel, description: null"
+  },
+  {
+    "projectDetails": "name: telex-package-updates , full_name: telexintegrations/telex-package-updates, description: null"
+  },
+  {
+    "projectDetails": "name: crypto-price-tracker , full_name: telexintegrations/crypto-price-tracker, description: null"
+  },
+  {
+    "projectDetails": "name: tachtwitch-telexforms , full_name: telexintegrations/tachtwitch-telexforms, description: null"
+  },
+  {
+    "projectDetails": "name: inventory-monitor , full_name: telexintegrations/inventory-monitor, description: null"
+  },
+  {
+    "projectDetails": "name: FAQResponder , full_name: telexintegrations/FAQResponder, description: FAQResponder is a Telex integration app that automatically responds to frequently asked questions (FAQs) in a chat channel. When a user sends a message that matches a predefined FAQ question, the app provides the corresponding answer."
+  },
+  {
+    "projectDetails": "name: telex_vercel , full_name: telexintegrations/telex_vercel, description: null"
+  },
+  {
+    "projectDetails": "name: hngx-stage3-Gumroad-sales-summary , full_name: telexintegrations/hngx-stage3-Gumroad-sales-summary, description: FastAPI integration for fetching sales data from Gumroad and sending updates to a Telex channel"
+  }
+]
